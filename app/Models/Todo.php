@@ -13,8 +13,11 @@ class Todo extends Model
         'completed_at',
     ];
 
-    protected $casts = [
-        'is_completed' => 'boolean',
-        'completed_at' => 'datetime',
-    ];
+    protected function casts(): array
+    {
+        return [
+            'is_completed' => 'boolean',
+            'completed_at' => 'datetime',
+        ];
+    }
 }
