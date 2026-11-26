@@ -1,0 +1,28 @@
+# INFORMASI REPOSITORI
+
+Nama Project: Laravel ToDo App
+
+Framework: Laravel 12
+
+Bahasa Pemrograman:
+- PHP
+- HTML
+- CSS
+- JavaScript
+
+Database: MySQL (MariaDB)
+
+Nama Database: laravel_todo_20246007
+
+Repository GitHub:
+https://github.com/Liebel27/laravel-todo-app
+
+Branch: main
+
+Deskripsi:
+
+Website aplikasi pengelolaan ToDo berbasis Laravel 12 yang digunakan untuk mencatat, mengelola, dan memantau aktivitas atau tugas pengguna. 
+Aplikasi menyediakan halaman Dashboard untuk menampilkan daftar tugas, halaman tambah tugas yang memuat judul, keterangan, dan status penyelesaian, serta fitur untuk mengubah status tugas dan menghapus tugas.
+
+Seluruh data ToDo disimpan menggunakan database MySQL/MariaDB. 
+Aplikasi juga dilengkapi pencatatan tanggal dan waktu penyelesaian tugas secara otomatis ketika status tugas diubah menjadi selesai.
